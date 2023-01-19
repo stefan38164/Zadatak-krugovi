@@ -1,0 +1,24 @@
+.crveni-krug {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: red;
+  display: inline-block;
+}
+
+.zeleni-krug {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: green;
+  display: inline-block;
+}
+
+.zuti-krug {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: yellow;
+  display: inline-block;
+}
+
